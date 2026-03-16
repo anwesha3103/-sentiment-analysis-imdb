@@ -83,4 +83,4 @@ docker compose up --build
 
 ## Author
 
-Anwesha — ML Engineer & SDE at Aspire Infolabs Global
+Anwesha
