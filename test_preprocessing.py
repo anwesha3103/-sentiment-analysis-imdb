@@ -1,7 +1,6 @@
 import sys
 import os
 
-# Always resolve paths relative to this file's location
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BACKEND = os.path.join(ROOT, "backend")
 sys.path.insert(0, BACKEND)
